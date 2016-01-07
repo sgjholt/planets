@@ -1,4 +1,3 @@
 this is a file
 
-No- pluto is not a planet. It is a minor planet.
-
+Yes - pluto is a planet
